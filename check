@@ -1,0 +1,1 @@
+chainname keys export <walletname> --unarmored-hex and --unsafe
